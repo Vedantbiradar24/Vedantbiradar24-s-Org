@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Smart StudyMate",
+  "description": "An AI-powered study assistant that helps students learn using text, images, and voice. Features include note explanation, live tutoring, summarization, quiz generation, study planning, and concept visualization.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
